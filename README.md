@@ -6,7 +6,7 @@ it's very easy to use ,and you can make changes as needed
 how to use
 
 <input type="file" style="display:none" id="upload" />
-<input type="button" onclick="upload()" />   <% easy to design it with css style %>
+<input type="button" onclick="upload()" />  
 
 <script>
 funtion upload(){
@@ -19,3 +19,6 @@ $("#upload").trigger("click").miniupload(
 });
 }
 </script>
+
+********************************
+easy to design upload button with css style
