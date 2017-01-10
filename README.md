@@ -22,3 +22,4 @@ $("#upload").trigger("click").miniupload(
 
 ********************************
 easy to design upload button with css style
+ 
